@@ -1,7 +1,7 @@
 This is the course project for the Coursera course `Getting and Cleaning Data`. Here are included:
 * R script, run_analysis.R, saved in the `codes` folder.
-* Source datasets, saved in the `data` folder.
-* The resulting `tidy_data.csv`saved in the `output` folder.
+* The resulting tidy dataset is saved as `tidy_data.csv`.
+* The COdeBook is updated and saved as `CodeBook.md`
 
 The script does the following:
 
