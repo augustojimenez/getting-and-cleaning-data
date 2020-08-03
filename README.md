@@ -1,10 +1,3 @@
----
-title: "README"
-output: html_notebook
-editor_options: 
-  chunk_output_type: inline
----
-
 This is the course project for the Coursera course `Getting and Cleaning Data`. Here are included:
 * R script, run_analysis.R, saved in the `codes` folder.
 * Source datasets, saved in the `data` folder.
